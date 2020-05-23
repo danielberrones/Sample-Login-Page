@@ -4,4 +4,4 @@ I replicated the visual layout of the College of Lake County sign-in page using 
 TODO: Add a PHP file to verify login information.  
 
 
-![Replicate Login](https://imgur.com/a/UxRnkCf)
+![Replicate Login](college.png)
